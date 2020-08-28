@@ -1,0 +1,10 @@
+$Mon-bold: "Montserrat-Bold", sans-serif;
+$Mon-med: "Montserrat-Medium", sans-serif;
+$Mon-reg: "Montserrat-Regular", sans-serif;
+
+@font-face {
+  font-family: "Montserrat-Bold";
+  src: local("Montserrat-Bold");
+  src: url("../fonts/Montserrat-Bold.otf") format("otf");
+  src: url("../fonts/Montserrat-Bold.ttf") format("ttf");
+}

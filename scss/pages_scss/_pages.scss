@@ -1,0 +1,61 @@
+main {
+  background: rgba(242, 242, 242, 0.21);
+}
+h1 {
+  font-size: 45px;
+  line-height: 1.3;
+  font-weight: bold;
+  font-family: $Mon-bold;
+}
+
+h2 {
+  font-size: 38px;
+  line-height: 47px;
+  font-weight: bold;
+  font-family: $Mon-bold;
+}
+
+h3 {
+  font-size: 18px;
+  line-height: 22px;
+  font-family: $Mon-med;
+  font-weight: normal;
+}
+
+img {
+  object-fit: cover;
+}
+
+.container {
+  display: block;
+  width: calc(100% - 40px);
+  margin-left: auto;
+  margin-right: auto;
+}
+.text--orange {
+  color: $orange;
+}
+.text-bold {
+  font-weight: bold;
+}
+
+@media (min-width: 480px) {
+}
+@media (min-width: 768px) {
+}
+@media (min-width: 992px) {
+}
+@media (min-width: 1240px) {
+}
+@media (min-width: 1686px) {
+}
+
+@media (max-width: 1199px) {
+}
+@media (max-width: 991px) {
+}
+@media (max-width: 767px) {
+}
+
+@media (max-width: 479px) {
+}
